@@ -1,2 +1,1 @@
-# java_crash_course
-Java and OOP 
+[Java and OOP Crash Course](https://classroom.udacity.com/courses/ud283) on Udacity 
